@@ -25,7 +25,7 @@ Hệ thống nhận dạng biển báo giao thông sử dụng học sâu với 
 ## 📁 Cấu Trúc Dự Án
 
 ```
-Asm1_12/
+Traffic_Sign_Classification_System/
 ├── code/                          # Thư mục mã nguồn
 │   ├── train.py                   # Script huấn luyện mô hình
 │   ├── gra.py                     # Giao diện web Gradio
@@ -63,7 +63,7 @@ pip install tensorflow opencv-python pillow numpy scikit-learn gradio matplotlib
 
 1. **Clone hoặc tải dự án này**
    ```bash
-   cd Asm1_12
+   cd Traffic_Sign_Classification_System
    ```
 
 2. **Cài đặt các package cần thiết**
@@ -223,3 +223,4 @@ Dự án này phục vụ mục đích giáo dục.
 ---
 
 **Phiên Bản Tiếng Anh**: Xem [README.md](README.md) để đọc tài liệu tiếng Anh.
+
