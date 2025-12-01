@@ -25,7 +25,7 @@ A deep learning-based traffic sign recognition system using CNN (Convolutional N
 ## 📁 Project Structure
 
 ```
-Asm1_12/
+Traffic_Sign_Classification_System/
 ├── code/                          # Source code directory
 │   ├── train.py                   # Model training script
 │   ├── gra.py                     # Gradio web interface
@@ -223,4 +223,5 @@ Doan Sinh Duc
 ---
 
 **Vietnamese Version**: See [README_VI.md](README_VI.md) for Vietnamese documentation.
+
 
