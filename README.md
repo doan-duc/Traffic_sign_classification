@@ -218,8 +218,9 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-Created for traffic sign classification demonstration.
+Doan Sinh Duc
 
 ---
 
 **Vietnamese Version**: See [README_VI.md](README_VI.md) for Vietnamese documentation.
+
