@@ -37,7 +37,7 @@ Traffic_Sign_Classification_System/
 │   ├── train/                     # Training images
 │   └── test/                      # Testing images
 ├── data_ok/                       # Validated dataset
-├── dataset_ok/                    # Processed images (64x64)
+├── dataset_raw/                   # Raw dataset
 ├── cnn_traffic_sign.keras         # Trained model file
 └── README.md                      # This file
 ```
@@ -223,6 +223,7 @@ Doan Sinh Duc
 ---
 
 **Vietnamese Version**: See [README_VI.md](README_VI.md) for Vietnamese documentation.
+
 
 
 
