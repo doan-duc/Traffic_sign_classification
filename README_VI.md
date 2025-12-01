@@ -37,7 +37,7 @@ Traffic_Sign_Classification_System/
 │   ├── train/                     # Ảnh huấn luyện
 │   └── test/                      # Ảnh kiểm tra
 ├── data_ok/                       # Dataset đã validate
-├── dataset_ok/                    # Ảnh đã xử lý (64x64)
+├── dataset_raw/                   # Dữ liệu thô
 ├── cnn_traffic_sign.keras         # File mô hình đã huấn luyện
 └── README_VI.md                   # File này
 ```
@@ -223,4 +223,5 @@ Dự án này phục vụ mục đích giáo dục.
 ---
 
 **Phiên Bản Tiếng Anh**: Xem [README.md](README.md) để đọc tài liệu tiếng Anh.
+
 
