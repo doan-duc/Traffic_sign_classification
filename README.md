@@ -63,7 +63,7 @@ pip install tensorflow opencv-python pillow numpy scikit-learn gradio matplotlib
 
 1. **Clone or download this project**
    ```bash
-   cd Asm1_12
+   cd Traffic_Sign_Classification_System
    ```
 
 2. **Install required packages**
@@ -223,5 +223,6 @@ Doan Sinh Duc
 ---
 
 **Vietnamese Version**: See [README_VI.md](README_VI.md) for Vietnamese documentation.
+
 
 
